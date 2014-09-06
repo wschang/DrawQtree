@@ -4,7 +4,7 @@ A demo which uses quadtree to represent an image. The demo can either display th
 
 ### Introduction ###
 
-This was inspired by another GitHub project: https://raw.githubusercontent.com/fogleman/Quad
+This was inspired by another GitHub project: https://github.com/fogleman/Quads
 I thought it was an interesting demo, and decided to build one for myself
 
 ### Prerequisite ###
