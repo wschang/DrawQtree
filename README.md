@@ -38,4 +38,4 @@ Press the "Stop" button to cancel the animation before exiting the demo.
 ![demo_static](./img/sample_animation.png)
 
 ### License ###
-RunCmd is released under the MIT license. See [LICENSE.txt](./LICENSE.txt)
+DrawQtree is released under the MIT license. See [LICENSE.txt](./LICENSE.txt)
